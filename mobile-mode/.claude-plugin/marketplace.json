@@ -1,0 +1,13 @@
+{
+  "name": "mobile-mode",
+  "owner": { "name": "local" },
+  "metadata": { "description": "Local marketplace for the mobile-mode mod" },
+  "plugins": [
+    {
+      "name": "mobile-mode",
+      "source": "./",
+      "description": "Short, one-thing-at-a-time, phone- and speech-friendly replies; /phone on|off|auto",
+      "category": "productivity"
+    }
+  ]
+}

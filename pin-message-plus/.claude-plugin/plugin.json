@@ -1,0 +1,7 @@
+{
+  "name": "pin-message-plus",
+  "version": "0.11.0",
+  "description": "Pin selections or responses to a side pane; auto-pin open PRs with in-session review status, pending decisions and unfinished threads; idle recap of where you left off",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

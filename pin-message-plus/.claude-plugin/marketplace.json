@@ -1,0 +1,13 @@
+{
+  "name": "pin-message-plus",
+  "owner": { "name": "local" },
+  "metadata": { "description": "Local marketplace for the pin-message-plus mod" },
+  "plugins": [
+    {
+      "name": "pin-message-plus",
+      "source": "./",
+      "description": "Pin selections or responses to a side pane, with optional auto-pinning of a shortened summary of every response",
+      "category": "productivity"
+    }
+  ]
+}
